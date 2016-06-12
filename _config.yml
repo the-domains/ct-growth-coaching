@@ -1,0 +1,28 @@
+name: CT Growth Coaching
+favicon: null
+layout_spectrum: 0.7612918729428202
+typography_spectrum: 0.20679463911801577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5810253587551415
+  lightness: 0.9226773690897971
+  saturation: 0.8721188784111291
+  rhythmicContrast: 0.5069250122178346
+purpose: []
